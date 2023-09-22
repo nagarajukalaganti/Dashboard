@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.profile-information{
+    width: 80%;
+    height: 14vh;
+    border: 1px solid rgb(246, 242, 242);
+    background-color: #FFFFFF;
+    ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+    color: #2f4362;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 20%;
+    position: fixed;
+}
+#notification {
+    width: 2.5%;
+    border-radius: 50%;
+    border: 1px solid rgb(219, 212, 212);
+    background-color: rgb(252, 248, 248);
+}
+
+.profile-information h1{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+#arrow {
+    border: 1px solid rgb(219, 212, 212);
+    border-radius: 50%;
+    padding-left: 6.5px;
+
+}

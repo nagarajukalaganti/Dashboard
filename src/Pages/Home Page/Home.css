@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin-right: 0;
+    box-sizing: border-box;
+}
+.home{
+    display: flex;
+    
+}
+
+.home2{
+    width: 100%;
+    height: 14vh;
+}
